@@ -9,4 +9,4 @@ st.write("Elaborado por Gustavo Struve")
 
 with st.container():
     st.write("Subir Lead Nuevo")
-    st.button("A button inside the container")
+    st.button("Click para subir")
